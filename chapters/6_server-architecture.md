@@ -13,4 +13,11 @@
     * CloudFlare
 4. Imageservice
     * Thumbor Image service
+5. Versionierung
+    * Git + GitFlow
+
+## Wieso Typescript
+
+
+
 
