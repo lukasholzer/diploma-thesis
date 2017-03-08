@@ -10,7 +10,7 @@ Meine Diplomarbeit im Bereich des Web-Design für den Altwiener Christkindlmarkt
     * Intuition
     * Funktionalität vor Ästhetik
     * Innovation
-    * FarbkompForm- und Farbkompositionosition
+    * Form- und Farbkompositionosition
     * Wiederholbare Muster
   * Material Design Prinzip
     * Minimalistischer Ansatz
@@ -28,6 +28,7 @@ Meine Diplomarbeit im Bereich des Web-Design für den Altwiener Christkindlmarkt
   * Fluid oder liquid Layouts
   * Elastic Layouts
   * Hybrid Layouts
+  * Satztechnologie
 * Das Gridsystem
   * was ist ein Gridsystem?
   * Der Vorteil von einem 12er Grid
@@ -42,10 +43,23 @@ Meine Diplomarbeit im Bereich des Web-Design für den Altwiener Christkindlmarkt
 * Ein Komponentenbasiertes System
   * Vorteile von Module und Component Based Systems
 * Die Serverarchitektur und der Techologie Einsatz
-  * Vorteile von Typescript und statical Typed Languages
-  * SCSS
+  * Frontend
+    * HTML5
+    * SCSS
+    * Vorteile von Typescript und statical Typed Languages
+  * API Driven CMS
+    * Vorteile
+    * Unterschied zu static site generators
+    * im Beispiel Marktführer Contentful
+    * Modularität von Storyblok
+  * Server
+    * Node.JS Backend mit Handlebars Templating
+    * Vorteile von Nginx zu Apache
+    * Load Balancing
+    * Vorteile von HTTPS
 * Search Engine Optimization
   * Content Delivery Network auch CDN
+  * Correct URL Format
   * Cannonical Links
   * XML Sitemap
   * Imageservice
