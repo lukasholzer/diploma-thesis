@@ -12,7 +12,7 @@ Breakpoints sind bestimmte Punkte oder Punktespannen, gemessen in px, welche bes
 Die folgenden Breakpoints wurden bei der Website verwendet um die folgenden 5 Gerätegrößen abzudecken.
 
 | von px | bis px | Gerät             |
-|--------|--------|–------------------|
+| ------ | ------ | ----------------- |
 | 0      | 510    | Mobile Devices    |
 | 511    | 768    | Tablets           |
 | 769    | 1200   | Laptops           |
