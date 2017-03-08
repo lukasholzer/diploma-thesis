@@ -1,5 +1,5 @@
-# diploma-thesis
-Thesis for my diploma at the HTL1 Graphic &amp; Communication Design for the Altwiener Christmas Market
+# Diplomarbeit
+Meine Diplomarbeit im Bereich des Web-Design für den Altwiener Christkindlmarkt in Wien auf der Freyung
 
 ## Inhaltsverzeichnsi:
 
@@ -51,5 +51,5 @@ Thesis for my diploma at the HTL1 Graphic &amp; Communication Design for the Alt
   * Imageservice
   * Optimierung Above the Fold
   * Browser Caching
-  * Korrekte Anwendung mittels E-Tags
+  * Korrekte Anwendung von E-Tags
 
