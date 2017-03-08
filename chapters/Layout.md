@@ -11,15 +11,13 @@ Media Querys sind Abfragen, die es dem Medium *(in diesem Fall dem Browser)* erm
 Breakpoints sind bestimmte Punkte oder Punktespannen, gemessen in px, welche bestimmte Bereiche definieren. Diese Bereiche werden dann auf die Media Queries angewandt, um eine bestimmte Layoutregel darauf anzuwenden.
 Die folgenden Breakpoints wurden bei der Website verwendet um die folgenden 5 Gerätegrößen abzudecken.
 
-+---------------+-------------------+
-| px            | Gerät             |
-+---------------+–------------------+
-| 0 – 510       | Mobile Devices    |
-| 511 – 768     | Tablets           |
-| 769 – 1200    | Laptops           |
-| 1201 – 1440   | Desktops          |
-| 1441 – ∞      | Ultra Wide        |
-+---------------+-------------------+
+| von px | bis px | Gerät             |
+|--------|--------|–------------------|
+| 0      | 510    | Mobile Devices    |
+| 511    | 768    | Tablets           |
+| 769    | 1200   | Laptops           |
+| 1201   | 1440   | Desktops          |
+| 1441   | ∞      | Ultra Wide        |
 
 
 ## wie alles anfing
