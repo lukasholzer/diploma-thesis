@@ -4,6 +4,21 @@ Thesis for my diploma at the HTL1 Graphic &amp; Communication Design for the Alt
 ## Inhaltsverzeichnsi:
 
 * UI und User Expirience (UX)
+  * Aufwand in Relation zur Wirkung
+  * Design Prinzipien
+    * unreduzierbare Einfachheit
+    * Intuition
+    * Funktionalität vor Ästhetik
+    * Innovation
+    * FarbkompForm- und Farbkompositionosition
+    * Wiederholbare Muster
+  * Material Design Prinzip
+    * Minimalistischer Ansatz
+  * Die Daumen Zone – Mobile Design
+    * Die Minimalgröße
+    * Probleme mit der Navigation
+    * Gesten und Bewegungen
+      * Kein Hover state auf Mobilen Endgeräten
 * Das Layout
   * Erklärung
     * Media Queries
