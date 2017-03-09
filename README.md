@@ -1,5 +1,10 @@
 # Thesis
-Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwiener Christmas Market
+Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwiener Christmas 
+
+
+## Citing Rules:
+**first mention**
+Nachname, Vorname: Titel. (ggf. Auflage) – Verlagsort: Verlag, Jahr, Seite.
 
 ## Chapters:
 
