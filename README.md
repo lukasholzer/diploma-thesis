@@ -1,7 +1,7 @@
-# Diplomarbeit
-Meine Diplomarbeit im Bereich des Web-Design für den Altwiener Christkindlmarkt in Wien auf der Freyung
+# Thesis
+Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwiener Christmas Market
 
-## Inhaltsverzeichnsi:
+## Chapters:
 
 * UI und User Expirience (UX)
   * Aufwand in Relation zur Wirkung
