@@ -10,9 +10,9 @@ Design Principles are the language and the environment of expressing what is rig
 
 ### The Principle of Proximity
 
-The principle of proximity is based on the perception of the distance between objects. Simplified it referres to the grouping principle. Two objects, that are closer together pretend to have a relationship. In comparison two objects, that are further apart, would have less relation. In general it is a pattern system, that describse a function. Ordering objects according to each other based on the function leads to a comprehensible layout and design. With this little enhancement it is possible to generate a huge impact in improving the design.
+The principle of proximity is based on the perception of the distance between objects. Simplified it referres to the grouping principle. Two objects, that are closer together pretend to have a relationship. In comparison two objects, that are further apart, would have less relation. In general it is a pattern system, that describse a function. Ordering objects according to each other based on the function leads to a comprehensible layout and design. With this little enhancement it is possible to generate a huge impact in improving the design. Think about frustrated and confused users, which are not able to get any kind of information, in case of missleading arrangement of objects and how they are organized. The solution is a clear and well-considered layout that puts less strain on users to find the information, they need.
 
-> Lowdermilk, Travis: User-Centered Design. (First release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013, S. 63
+> Lowdermilk, Travis: User-Centered Design. (First release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013, S. 63 – 64
 
 
 ![](../../images/figure-1-1_example_of_the_proximity_principle.png)
