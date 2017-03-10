@@ -7,8 +7,6 @@ The Acronyms UI and UX are quite common in modern web discussions – is is like
 But What is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colors and graphics on the screen. But User Exprience is quite different. It is more about the experience of using things. The aim is to find the easierst way of communication which is intuitiv and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know their habbits and reactions, to face their problems. Design is not about arranging things in an asthetical way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
 
 > see http://uxmag.com/articles/explaining-ux-design-to-your-team
-
-
 > see http://blog.careerfoundry.com/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux
 
 > see Levin, Michal: Designing Multi-Device Experiences – An Ecosystem Approach To User Experiences Across Devices. (First release): O'Reilly and Associates, 2014, S. 20 – 
@@ -16,7 +14,9 @@ But What is UX? If you hear the word User Experience Design you probably think a
 
 ## User Interface Design
 
+When we are talking about User Interaface Design, it is not a conversation about subjective art. On the contrary it is an objective principled form of human conversation and behavior. It is like Steve Jobs said: “Design is not just what it looks like and feels like. Design is how it works” (Steve Jobs). But in spite of this User Interface is based on a good UX design. These two Principles are connected to each other. It is like an environment
 
+> McKay, Everett. (2014). Ui is Communication: How to design intuitive, user-centered interfaces by focusing on effective communication. In: SlideShare. [online]. Available at: ttps://de.slideshare.net/EverettMcKay/ui-is-communication-how-to-design-intuitive-usercentered-interfaces-by-focusing-on-effective-communication [10.03.2017].
 
 ## Design Principles
 
