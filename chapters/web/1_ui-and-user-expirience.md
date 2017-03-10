@@ -1,11 +1,6 @@
 # UI und User Expirience (UX)
 
 
-## Aufwand in Relation zur Wirkung
-[Smashing Mag Artikel](https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)
-
-## Design Prinzipien
-
 ## Design Principles
 
 Design Principles are the language and the environment of expressing what is right and wrong in designs. It expresses a state so that the user has the best experience at handling the design. In Web Design there is everything about usability. The main focus of web design is to archive a visitor with a long lasting attention. The user should be interested in the topics and should get the information straight forward, without clicking throught unpredictable dialogs or sections. These principles are the ruleset and the scientific laws of the usability, like the gravity law on earth. They were craftet during a long period of studying humans' behavior and understanding the environment. That is the reason why you should design for the people and not for the asthetics.
@@ -47,6 +42,11 @@ Der Erfolg von Innovation ist wie eine Schaukel zwischen Langeweile (nichts neue
 
 [smashing](https://www.smashingmagazine.com/2015/12/design-principles-to-evaluate-your-product/)
 
+
+
+
+## Aufwand in Relation zur Wirkung
+[Smashing Mag Artikel](https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)
 
 ## Material Design Prinzip
 
