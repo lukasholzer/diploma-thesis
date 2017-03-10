@@ -1,20 +1,21 @@
-# Der Technologie Stack
+## Wieso Typescript
 
-1. Frontend
-    * Typescript
+
+* Frontend
     * HTML5
     * SCSS
     * Gulp for Compiling
-2. Backend
-    * NGINX with proxypass
-    * Node.JS
-    * PHP
-3. CDN
-    * CloudFlare
-4. Imageservice
+    * Vorteile von Typescript und statical Typed Languages
+* API Driven CMS
+    * Vorteile
+    * Unterschied zu static site generators
+    * im Beispiel Marktführer Contentful
+    * Modularität von Storyblok
+* Server
+    * Node.JS Backend mit Handlebars Templating
+    * Vorteile von Nginx zu Apache
+    * Load Balancing
+    * Vorteile von HTTPS
     * Thumbor Image service
-5. Versionierung
-    * Git + GitFlow
-
-## Wieso Typescript
-
+* Versionierung
+    * Git + Git flow im Vorteil

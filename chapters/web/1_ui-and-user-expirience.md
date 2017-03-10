@@ -1,5 +1,11 @@
 # UI und User Expirience (UX)
 
+The Acronyms UI and UX are quite common in modern web discussions – is is like the basic scaffolding of a modern webpage or webapp. These Acronyms representing the words User Interface and User Expirerience Design. But What is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colors and graphics on the screen. But User Exprience is quite different. It is more about the experience of using things. The aim is to find the easierst way of communication which is intuitiv and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know the habbits and reactions of people to face their problems. Design is not about arranging things in an asthetical way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
+
+> http://uxmag.com/articles/explaining-ux-design-to-your-team
+
+> Levin, Michal: Designing Multi-Device Experiences – An Ecosystem Approach To User Experiences Across Devices. (First release): O'Reilly and Associates, 2014, S. 20 – 
+
 
 ## Design Principles
 
