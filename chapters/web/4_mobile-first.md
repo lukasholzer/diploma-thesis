@@ -8,6 +8,6 @@ Diese Worte spricht Hamlet zu seinem Freund Horatio, doch diese Worte haben nich
 
 Die „World Bank“ berichtet, dass mehr als 1.1 Milliarden Menschen auf der Welt zugang zu High Speed internet haben. 3.2 Milliarden Menschen haben Internetzugang mit mäßiger Geschwindigkeit und 5.2 Milliarden Menschen besitzen überhaupt ein Mobile Telefon. 7 Milliarden Menschen leben mit einem mobilen Internet Zugang.
 
-> Enzenhofer, Klaus. (2017) UX reports from the trenches: Topconf Linz. 2017
+> Enzenhofer, Klaus. (2017) UX reports from the trenches: Topconf Linz. 2017:
 
 > [Smashing Mag Artikel](https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/)
