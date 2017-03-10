@@ -1,10 +1,21 @@
-# UI und User Expirience (UX)
+# UI and UX design
 
-The Acronyms UI and UX are quite common in modern web discussions – is is like the basic scaffolding of a modern webpage or webapp. These Acronyms representing the words User Interface and User Expirerience Design. But What is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colors and graphics on the screen. But User Exprience is quite different. It is more about the experience of using things. The aim is to find the easierst way of communication which is intuitiv and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know the habbits and reactions of people to face their problems. Design is not about arranging things in an asthetical way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
+The Acronyms UI and UX are quite common in modern web discussions – is is like the basic scaffolding of a modern webpage or webapp. These Acronyms representing the words *User Interface* and *User Experience Design*.
 
-> http://uxmag.com/articles/explaining-ux-design-to-your-team
+## User Experience Design
 
-> Levin, Michal: Designing Multi-Device Experiences – An Ecosystem Approach To User Experiences Across Devices. (First release): O'Reilly and Associates, 2014, S. 20 – 
+But What is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colors and graphics on the screen. But User Exprience is quite different. It is more about the experience of using things. The aim is to find the easierst way of communication which is intuitiv and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know their habbits and reactions, to face their problems. Design is not about arranging things in an asthetical way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
+
+> see http://uxmag.com/articles/explaining-ux-design-to-your-team
+
+
+> see http://blog.careerfoundry.com/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux
+
+> see Levin, Michal: Designing Multi-Device Experiences – An Ecosystem Approach To User Experiences Across Devices. (First release): O'Reilly and Associates, 2014, S. 20 – 
+
+
+## User Interface Design
+
 
 
 ## Design Principles
@@ -18,7 +29,7 @@ Design Principles are the language and the environment of expressing what is rig
 
 The principle of proximity is based on the perception of the distance between objects. Simplified it referres to the grouping principle. Two objects, that are closer together pretend to have a relationship. In comparison two objects, that are further apart, would have less relation. In general it is a pattern system, that describse a function. Ordering objects according to each other based on the function leads to a comprehensible layout and design. With this little enhancement it is possible to generate a huge impact in improving the design. Think about frustrated and confused users, which are not able to get any kind of information, in case of missleading arrangement of objects and how they are organized. The solution is a clear and well-considered layout that puts less strain on users to find the information, they need.
 
-> Lowdermilk, Travis: User-Centered Design. (First release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013, S. 63 – 64
+> see Lowdermilk, Travis: User-Centered Design. (First release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013, S. 63 – 64
 
 
 ![](../../images/figure-1-1_example_of_the_proximity_principle.png)
@@ -42,21 +53,23 @@ Example of the proximity principle
 ### Innovation
 Der Erfolg von Innovation ist wie eine Schaukel zwischen Langeweile (nichts neues) und Argwohn (zu viel neues)
 
-### Form- und Farbkomposition
+### Form and Colorcomposition
 
-### Wiederholbare Muster
+### Repeatable patterns
 
-[smashing](https://www.smashingmagazine.com/2015/12/design-principles-to-evaluate-your-product/)
-
-
+> see https://www.smashingmagazine.com/2015/12/design-principles-to-evaluate-your-product/
 
 
-## Aufwand in Relation zur Wirkung
-[Smashing Mag Artikel](https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)
 
-## Material Design Prinzip
 
-### Minimalistischer Ansatz
+## The relation of impact and effort
 
-## Die Daumen Zone – Mobile Design
-[Smashing Mag Artikel](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
+> see https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/)
+
+## Googles Material Design principle
+
+### The minimalistic approach
+
+## The thumb zone – Mobile Design
+
+> see https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/

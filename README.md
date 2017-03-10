@@ -6,6 +6,9 @@ Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwien
 **first mention**
 Nachname, Vorname: Titel. (ggf. Auflage) – Verlagsort: Verlag, Jahr, Seite.
 
+### Harvard Referencing Method
+http://www.citethisforme.com/harvard-referencing
+
 ## Chapters:
 
 * UI und User Expirience (UX)

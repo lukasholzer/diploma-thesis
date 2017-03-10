@@ -33,3 +33,6 @@ Diese Technik kommt jedoch oft mit der Kombination von Media Queries vor, da die
 ## Hybrid Layouts
 Die letzte und Layoutoption ist das Hybride Layout. Es kombiniert die Eigenschaften der vorangehenden Beispiele.
 Dies Kommt zum Beispiel bei unserem Grid Layout vor. Da der Abstand der Grid Spalten, die *grid-gap* in px angegeben ist. Dadurch dass ein sogenanntes 12er grid (bestehend aus 12 Spalten) im Einsatz ist passt sich die Breite einer einzelnen Spalte dem restlichen Platz an. Zusätlich steuern noch Media Queries mit einem Breakpoint für mobile Endgeräte die *grid-gap*, damit diese auf Smartphones zum Beispiel geringer ist.
+
+
+The last Layoutoption is the hybrid layout. It combines the abilitys of the previous examples.
