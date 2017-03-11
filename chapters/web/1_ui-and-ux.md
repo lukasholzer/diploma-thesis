@@ -17,6 +17,7 @@ But What is UX? If you hear the word User Experience Design you probably think a
 When we are talking about User Interaface Design, it is not a conversation about subjective art. On the contrary it is an objective principled form of human conversation and behavior. It is like Steve Jobs said: “Design is not just what it looks like and feels like. Design is how it works” (Steve Jobs). But in spite of this User Interface is based on a good UX design. These two Principles are connected to each other. It is like an environment
 
 
+> Vimeo Krishna, Golden – The Best Interface is No Interface: https://vimeo.com/48629451
 > Krishna, Golden (2016). The Best Interface is No Interface. In: SlideShare. [online] City: Golden Krishnas presentation at From Business to Buttons in Stockholm. Available at: https://de.slideshare.net/inusese/golden-krishna-the-best-interface-is-no-interface
 
 > McKay, Everett. (2014). Ui is Communication: How to design intuitive, user-centered interfaces by focusing on effective communication. In: SlideShare. [online]. Available at: ttps://de.slideshare.net/EverettMcKay/ui-is-communication-how-to-design-intuitive-usercentered-interfaces-by-focusing-on-effective-communication [10.03.2017].
