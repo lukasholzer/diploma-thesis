@@ -26,6 +26,10 @@ Nachname, Vorname: Titel. – URL (ganze www-Adresse), Datum.
 
 Institution: Titel. – URL (ganze www-Adresse), Datum.
 
+## Linking Phrases:
+
+http://library.bcu.ac.uk/learner/writingguides/1.33.htm
+
 ## Chapters:
 
 * UI und User Expirience (UX)

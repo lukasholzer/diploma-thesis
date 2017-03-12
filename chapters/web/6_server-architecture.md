@@ -40,17 +40,32 @@ So what is the Document Object Model? It is not the source code you write in an 
 
 In other words JavaScript is a language the browser can understand and interpret. On the contrary there is the DOM – the place where the magic happens. So facing this two arguments you can say JavaScript is a DOM accessing and manipulation language where you can watch events, attached to some DOM nodes. In other words you can give a button a click event that executes a function when the button is pressed.
 > COYIER, CHRIS: What is the DOM? – https://css-tricks.com/dom/, 10.03.2017
+
 "The (…) DOM is an application programming interface (API) (…) It defines the logical structure of documents and the way a document is accessed and manipulated."
 > W3C: What is the Document Object Model – https://www.w3.org/TR/DOM-Level-2-Core/introduction.html, 10.03.2017
+
 In point of detection techniques for HTML5 features we are accessing the `window`or `navigator` Object and testing if the property for the particular feature is available in this context. For this kind of testing there is an HTML5 detection library called Modernizr. It is open source and under the MIT-licence and detects the support for HTML5 and CSS3 features. It is important that you include this script in the `<head>` Tag of the page. This is important because you need it before the DOM is built up, so that you can check the support of the features. This is possible because page rendering is blocked until the script is loaded and executed.
 > cf. Pilgrim, HTML5 – Up and Running, p.30
 
 
-### Using HTML5 and getting rid of the boxing hell
+### Using HTML5 tags and getting rid of the boxing hell
 
 
+``` html
 
+  <div class="header">
+    <h1>My Header</h1>
+  </div>
 
+``` 
+
+``` html
+
+  <header>
+    <h1>My Header</h1>
+  </header>
+
+``` 
 
 ### Why using a statical typed Language in the web
 
