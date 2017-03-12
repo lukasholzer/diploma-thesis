@@ -1,10 +1,11 @@
 # UI and UX design
 
-The Acronyms UI and UX are quite common in modern web discussions – is is like the basic scaffolding of a modern webpage or webapp. These Acronyms representing the words *User Interface* and *User Experience Design*.
+The acronyms UI and UX are quite common in modern web discussions – is is like the basic scaffolding of a modern webpage or webapp. These acronyms representing the words User Interface and User Experience Design.
 
 ## User Experience Design
 
-But What is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colors and graphics on the screen. But User Exprience is quite different. It is more about the experience of using things. The aim is to find the easierst way of communication which is intuitiv and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know their habbits and reactions, to face their problems. Design is not about arranging things in an asthetical way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
+But what is UX? If you hear the word User Experience Design you probably think about arranging objects or designing colours and graphics on the screen. But User Experience is quite different. It is more about the experience of using things. The aim is to find the easiest way of communication which is intuitive and simple. But getting on the right lane is a long progress in getting in touch with people. Knowing the target customers is the responsibility in UX design. It is important to know their habits and reactions to face their problems. Design is not about arranging objects in an aesthetically way. It is a progress of solving problems. We are all facing problems everywhere and for the most cases there might be a solution out there. But life is not a pre written script. It is unpredictable. There are so many edge cases out there and the goal of a good UX design is to solve as many problems as possible.
+
 
 > see http://uxmag.com/articles/explaining-ux-design-to-your-team
 > see http://blog.careerfoundry.com/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux
@@ -14,7 +15,7 @@ But What is UX? If you hear the word User Experience Design you probably think a
 
 ## User Interface Design
 
-When we are talking about User Interaface Design, it is not a conversation about subjective art. On the contrary it is an objective principled form of human conversation and behavior. It is like Steve Jobs said: “Design is not just what it looks like and feels like. Design is how it works” (Steve Jobs). But in spite of this User Interface is based on a good UX design. These two Principles are connected to each other. It is like an environment
+When we are talking about User Interface Design, it is not a conversation about subjective art. On the contrary it is an objective principled form of human conversation and behaviour. It is like Steve Jobs said: “Design is not just what it looks like and feels like. Design is how it works” (Steve Jobs). But in spite of this User Interface is based on a good UX design. These two Principles are connected to each other. It is like an environment
 
 
 > Vimeo Krishna, Golden – The Best Interface is No Interface: https://vimeo.com/48629451
@@ -24,14 +25,14 @@ When we are talking about User Interaface Design, it is not a conversation about
 
 ## Design Principles
 
-Design Principles are the language and the environment of expressing what is right and wrong in designs. It expresses a state so that the user has the best experience at handling the design. In Web Design there is everything about usability. The main focus of web design is to archive a visitor with a long lasting attention. The user should be interested in the topics and should get the information straight forward, without clicking throught unpredictable dialogs or sections. These principles are the ruleset and the scientific laws of the usability, like the gravity law on earth. They were craftet during a long period of studying humans' behavior and understanding the environment. That is the reason why you should design for the people and not for the asthetics.
+Design Principles are the language and the environment of expressing what is right and wrong in designs. It expresses a state so that the user has the best experience at handling the design. In Web Design there is everything about usability. The main focus of web design is to archive a visitor with a long lasting attention. The user should be interested in the topics and should get the information straight forward, without clicking through unpredictable dialogs or sections. These principles are the rule sets and the scientific laws of the usability, like the gravity law on earth. They were crafted during a long period of studying humans‘ behaviour and understanding the environment. That is the reason why you should design for the people and not for the aesthetic.
 
 > “People ignore design that ignores people.”
 > – Frank Chimero
 
 ### The Principle of Proximity
 
-The principle of proximity is based on the perception of the distance between objects. Simplified it referres to the grouping principle. Two objects, that are closer together pretend to have a relationship. In comparison two objects, that are further apart, would have less relation. In general it is a pattern system, that describse a function. Ordering objects according to each other based on the function leads to a comprehensible layout and design. With this little enhancement it is possible to generate a huge impact in improving the design. Think about frustrated and confused users, which are not able to get any kind of information, in case of missleading arrangement of objects and how they are organized. The solution is a clear and well-considered layout that puts less strain on users to find the information, they need.
+The principle of proximity is based on the perception of the distance between objects. Simplified it references to the grouping principle. Two objects, that are closer together pretend to have a relationship. In comparison, two objects that are further apart would have less relation. In general it is a pattern system, that describes a function. Ordering objects according to each other based on the function leads to a comprehensible layout and design. With this little enhancement it is possible to generate a huge impact in improving the design. Think about frustrated and confused users, who are not able to get any kind of information in case of misleading arrangement of objects and how they are organized. The solution is a clear and well-considered layout that puts less strain on users to find the information they need.
 
 > see Lowdermilk, Travis: User-Centered Design. (First release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013, S. 63 – 64
 
