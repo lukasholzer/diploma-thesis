@@ -67,6 +67,74 @@ In point of detection techniques for HTML5 features we are accessing the `window
 
 ``` 
 
+
+### The Local Storage
+
+
+
+| IE   | Firefox | Safari | Chrome | Opera | iPhone | Android |
+| ---- | ------- | ------ | ------ | ----- | ------ | ------- |
+| 8.0+ | 3.5+    | 4.0+   | 4.0+   | 10.5+ | 2.0+   | 2.0 +   |
+
+
+
+
+
+```javascript
+  // included in the <head> section of the page
+
+  var fontversion = '1';
+  var fontcache = 'fontcache-altwiener-markt';
+
+  function addStyles(_styles) {
+    var style = document.createElement('style');
+    style.innerHTML = _styles;
+    var script = document.getElementsByTagName("script")[0];
+    script.parentNode.insertBefore(style, script);
+  }
+
+  try {
+    var s = window.localStorage.getItem(fontcache);
+    if (s !== null) {
+      var parts = s.split('####');
+      if (parts.length !== 2 || parts[0] !== fontversion) {
+        window.localStorage.removeItem(fontcache);
+      } else {
+        addStyles(parts[1]);
+      }
+    }
+  } catch (e) {
+    console.warn('A Problem occurred by setting the Fontcache: ', e);
+  };
+```
+
+
+```javascript
+  // included before the closing </body> tag of the page
+
+  (function(ls, x) {
+    try {
+      if (ls.getItem(fontcache) === null) {
+        var h = new x();
+        h.open('GET', '/styles/fonts.css');
+        h.send();
+        h.onload = function() {
+          addStyles(this.responseText);
+          ls.setItem(fontcache, fontversion + '####' + this.responseText);
+        }
+      }
+    } catch (e) {
+      console.warn('A Problem occurred by retrieving the Fontcache: ', e);
+    }
+  })(window.localStorage, XMLHttpRequest);
+  ```
+
+> Can I use: Web Storage - name/value pairs – http://caniuse.com/#search=localStorage, 13.03.2017
+
+
+
+
+> cf. Pilgrim, HTML5 – Up and Running, p.128 – 
 ### Why using a statical typed Language in the web
 
 
