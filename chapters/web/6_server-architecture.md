@@ -70,6 +70,7 @@ In point of detection techniques for HTML5 features we are accessing the `window
 
 ### The Local Storage
 
+Heading up to part of storing data it is necessary to know, that storing key/value pairs in browsers was a crucial thing before the introduction of the so called Web Storage – some browsers are referring to it as the "Local Storage" or "DOM Storage". Looking to the historical part of storing elements in the browser cookies where seemed as a good solution in this days. On the one hand it seemed like a good idea storing data persistent even after navigating away from the site, but on the other hand it caused a huge traffic on every HTTP request. 
 
 
 | IE   | Firefox | Safari | Chrome | Opera | iPhone | Android |
