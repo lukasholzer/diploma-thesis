@@ -1,13 +1,36 @@
 # Thesis
 Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwiener Christmas 
 
+checkout unilekt
 
-## Citing Rules:
-**first mention**
-Nachname, Vorname: Titel. (ggf. Auflage) – Verlagsort: Verlag, Jahr, Seite.
 
-### Harvard Referencing Method
-http://www.citethisforme.com/harvard-referencing
+## Citing Rules: According to Ö-Norm
+
+### first mention**
+**One Author:**
+
+cf. Nachname, Vorname: Titel. (ggf. Auflage) – Verlagsort: Verlag, Jahr, Seite.
+
+**short form:**
+cf. Nachname, Titel, Seite.
+
+**shortest:**
+cf. ebd., p.200
+
+**Up to three Authors:**
+
+cf. Nachname 1, Vorname 1 / Nachname 2, Vorname 2 / Nachname 3, Vorname 3: Titel.
+(ggf. Auflage) – Verlagsort: Verlag, Jahr, Seite.
+
+**Online:**
+
+Nachname, Vorname: Titel. – URL (ganze www-Adresse), Datum.
+
+Institution: Titel. – URL (ganze www-Adresse), Datum.
+
+## Linking Phrases:
+
+http://library.bcu.ac.uk/learner/writingguides/1.33.htm
 
 ## Chapters:
 
