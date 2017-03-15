@@ -72,6 +72,7 @@ The following example shows the difference at the closing tag. The starting tag 
 
 ``` 
 
+For structuring the page sections instead of div elements following new containers were created to enhance the semantic of the document. The `<section>` node was create to describe a section in a document. In a section, it is recommended to structure the text in so-called `<article>` nodes. In contrast, a article node could contain a variety of section elements. These article nodes are describing a stand-alone content, that can be independently from the rest of the page.  In addition, there was a tag for a sidebar `<aside>`, that is very common in blog or newspaper layouts. As well for navigations, the `<nav>` tag was invented that can only contain navigation links.
 
 ### The HTML5 Storage
 
