@@ -68,10 +68,11 @@ In point of detection techniques for HTML5 features, we are accessing the `windo
 ``` 
 
 
-### The Local Storage
+### The HTML5 Storage
 
-Heading up to part of storing data it is necessary to know, that storing key/value pairs in browsers was a crucial thing before the introduction of the so-called Web Storage – some browsers are referring to it as the "Local Storage" or "DOM Storage". Looking to the historical part of storing elements in the browser cookies seemed as a good solution in this days. On the one hand it seemed like a good idea storing data persistent even after navigating away from the site, but on the other hand, it caused a huge traffic on every HTTP request. 
-
+Heading up to part of storing data it is necessary to know, that storing key/value pairs in browsers was a crucial thing before the introduction of the so-called Web Storage – some browsers are referring to it as the "Local Storage" or "DOM Storage". Looking to the historical part of storing elements in the browser cookies seemed as a good solution in this days. On the one hand it seemed like a good idea storing data persistent even after navigating away from the site or closing the browser, but on the other hand, it is unlike with cookies. You have to send it manually if you want to transmit it to the remote web server.
+Considering the use of the local storage you need not be aware of using it, accordingly, the browser support is amazing if you check the Table.
+> cf. Pilgrim, HTML5 – Up and Running, p.129
 
 | IE   | Firefox | Safari | Chrome | Opera | iPhone | Android |
 | ---- | ------- | ------ | ------ | ----- | ------ | ------- |
