@@ -3,7 +3,6 @@
 Technology is one of the most important parts when it comes to the point of development and production. It is a combat between using a bulletproof solution, that might be outdated, and using the fanciest and latest technologies, which are often poorly tested or not production ready. The problem is the speed, technologies are changing and updating. It is like a competition against the time. Every week there is a new major version releasing and things are going even faster now. Maybe when writing these lines a new framework is now in production somewhere out in the world.
 But what is the single and only solution? Short hint, there is no only solution. Think about all problems out there, but every problem might need a different solution. So there are no laws and rules how to tackle a specific problem it is more looking for the needs of the customer and combining them with the habits and preferences of the developers. Finally, the developer has to work and maintain these technologies. So in the ecosystem of the Altwiener Christkindlmarkt, the focus was on a modular CMS like Contentful and Storyblok. Instead of a static site generator or Wordpress. On the one hand, Wordpress would be pretty simple to install and a bunch of plugins would be available out there, but on the other hand, a CMS like Storyblok which is API driven is platform independent. The benefit of an API driven CMS is that you can choose your stack on your own. In the case of Storyblok, a JSON *(JavaScript Object Notation)* based *Application Programming* Interface is easier to handle in JavaScript as in PHP.
 
-
 * Frontend
   * HTML5
   * SCSS
@@ -23,7 +22,7 @@ But what is the single and only solution? Short hint, there is no only solution.
 * Versionierung
   * Git + Git flow im Vorteil
 
-## The Frontend
+# The Frontend
 
 ### What is HTML5
 
@@ -56,6 +55,8 @@ God blesses the invention of HTML5, now it was possible to build a semantical co
 Furthermore, it was a bless for developers, as it was way easier to figure out what the content describes a header was a header tag and not a div with a class name.
 The following example shows the difference at the closing tag. The starting tag is maybe easier to read but the real benefit is the closing tag where you see immediately that the header is closed.
 
+**without HTML5 syntax**
+
 ``` html
 
   <div class="header">
@@ -63,6 +64,8 @@ The following example shows the difference at the closing tag. The starting tag 
   </div>
 
 ``` 
+
+**with HTML5 syntax**
 
 ``` html
 
@@ -73,20 +76,18 @@ The following example shows the difference at the closing tag. The starting tag 
 ``` 
 
 For structuring the page sections instead of div elements following new containers were created to enhance the semantic of the document. The `<section>` node was create to describe a section in a document. In a section, it is recommended to structure the text in so-called `<article>` nodes. In contrast, a article node could contain a variety of section elements. These article nodes are describing a stand-alone content, that can be independently from the rest of the page.  In addition, there was a tag for a sidebar `<aside>`, that is very common in blog or newspaper layouts. As well for navigations, the `<nav>` tag was invented that can only contain navigation links.
+> MDN: HTML element reference – https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ### The HTML5 Storage
 
 Heading up to part of storing data it is necessary to know, that storing key/value pairs in browsers was a crucial thing before the introduction of the so-called Web Storage – some browsers are referring to it as the "Local Storage" or "DOM Storage". Looking to the historical part of storing elements in the browser cookies seemed as a good solution in this days. On the one hand it seemed like a good idea storing data persistent even after navigating away from the site or closing the browser, but on the other hand, it is unlike with cookies. You have to send it manually if you want to transmit it to the remote web server.
 Considering the use of the local storage you need not be aware of using it, accordingly, the browser support is amazing if you check the Table.
-> cf. Pilgrim, HTML5 – Up and Running, p.129
+> cf. Pilgrim, HTML5 – Up and Running, p.128 – 129
 
 | IE   | Firefox | Safari | Chrome | Opera | iPhone | Android |
 | ---- | ------- | ------ | ------ | ----- | ------ | ------- |
 | 8.0+ | 3.5+    | 4.0+   | 4.0+   | 10.5+ | 2.0+   | 2.0 +   |
-
-
-
-
+> Can I use: Web Storage - name/value pairs – http://caniuse.com/#search=localStorage, 13.03.2017
 
 ```javascript
   // included in the <head> section of the page
@@ -137,13 +138,11 @@ Considering the use of the local storage you need not be aware of using it, acco
   })(window.localStorage, XMLHttpRequest);
   ```
 
-> Can I use: Web Storage - name/value pairs – http://caniuse.com/#search=localStorage, 13.03.2017
 
 
 
+## SCSS and not writing plain CSS
 
-> cf. Pilgrim, HTML5 – Up and Running, p.128 – 
-### Why using a statical typed Language in the web
+## The benefits of a static typed Language
 
-
-## The Sea
+## Automation with Gulp
