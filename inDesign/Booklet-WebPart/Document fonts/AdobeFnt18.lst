@@ -1,0 +1,174 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraCode-Regular
+FamilyName:Fira Code
+StyleName:Regular
+MenuName:Fira Code
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fira Code
+WritingScript:Roman
+OutlineFileName:\FiraCode-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:149168
+FileModTime:1463966674
+NameArray:0,Mac,4,Fira Code
+NameArray:0,Win,1,Fira Code
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Henriette-BoldItalic
+FamilyName:Henriette
+StyleName:Bold Italic
+MenuName:Henriette
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Henriette Bold Italic
+WritingScript:Roman
+OutlineFileName:\Henriette-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:94000
+FileModTime:1475490806
+NameArray:0,Mac,4,Henriette Bold Italic
+NameArray:0,Win,1,Henriette
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Henriette-MediumItalic
+FamilyName:Henriette
+StyleName:Medium Italic
+MenuName:Henriette Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Henriette Medium Italic
+WritingScript:Roman
+OutlineFileName:\Henriette-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:94636
+FileModTime:1475490972
+NameArray:0,Mac,4,Henriette Medium Italic
+NameArray:0,Win,1,Henriette Medium
+NameArray:0,Win,16,Henriette
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Henriette-Regular
+FamilyName:Henriette
+StyleName:Regular
+MenuName:Henriette
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Henriette
+WritingScript:Roman
+OutlineFileName:\Henriette-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:152576
+FileModTime:1475490973
+NameArray:0,Mac,4,Henriette
+NameArray:0,Win,1,Henriette
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Henriette-RegularItalic
+FamilyName:Henriette
+StyleName:Regular Italic
+MenuName:Henriette
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Henriette Regular Italic
+WritingScript:Roman
+OutlineFileName:\Henriette-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:92828
+FileModTime:1475490974
+NameArray:0,Mac,4,Henriette Regular Italic
+NameArray:0,Win,1,Henriette
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+MenuName:Minion Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Bold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218116
+FileModTime:1446747177
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeutraText-BoldItalic
+FamilyName:Neutra Text
+StyleName:Bold Italic
+MenuName:Neutra Text
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Neutra Text Bold Italic
+WritingScript:Roman
+OutlineFileName:\NeutraText-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:64492
+FileModTime:1039987002
+NameArray:0,Mac,18,Neutra Text-Bold Italic
+NameArray:0,Mac,4,Neutra Text Bold Italic
+NameArray:0,Win,1,Neutra Text
+%EndFont
+
