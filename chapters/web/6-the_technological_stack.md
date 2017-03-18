@@ -7,21 +7,17 @@ But what is the single and only solution? Short hint, there is no only solution.
   * HTML5
   * SCSS
   * Gulp for Compiling
-  * Vorteile von Typescript und statical Typed Languages
+  * Benefits of Typescript and statical Typed Languages
 * API Driven CMS
-  * Vorteile
-  * Unterschied zu static site generators
-  * im Beispiel Marktführer Contentful
-  * Modularität von Storyblok
+  * Benefits in general
+  * Difference between static site generators and API-driven CMS
+  * Example Contentful as Leader
+  * Modul-based System with Storyblok
 * Server
-  * Node.JS Backend mit Handlebars Templating
-  * Vorteile von Nginx zu Apache
+  * Node.JS backend with Handlebars templating
+  * Benefits of Nginx in comparison to Apache
   * Load Balancing
-  * Vorteile von HTTPS
+  * Benefits of HTTPS
   * Thumbor Image service
-* Versionierung
-  * Git + Git flow im Vorteil
-
-## The benefits of a static typed Language
-
-## Automation with Gulp
+* Versioning
+  * Benefits of Git and Git flow
