@@ -139,12 +139,6 @@ Considering the use of the local storage you need not be aware of using it, acco
   ```
 
 
-
-
-## SCSS and not writing plain CSS
-
-When we are heading to the point of styling our page, CSS might be the only solution. CSS *(Cascading Style Sheets)* is a language written to style HTML Markup and give you the chance to layout and design the web page.
-
 ## The benefits of a static typed Language
 
 ## Automation with Gulp
