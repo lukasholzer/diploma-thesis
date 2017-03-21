@@ -1,27 +1,13 @@
 # Mobile First – but why?
 
 > "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."
-> Shakespeare, William: Hamet – The Tragedy of Hamlet. Edited by Edward Dowden: Methuen and Co. 36 Essex Street: Strand London, 1899, p.52
-
-Diese Worte spricht Hamlet zu seinem Freund Horatio, doch diese Worte haben nicht an Aktualität verloren – im Gegenteil. Denn der durchschnittliche User, der eine Website aufruft hat kein MacBook Pro der letzten Generation und das neueste iPhone und das schnellste iPad. Die Verantwortung nicht für sich selbst zu designen sondern den durchschnittlichen end-user im Kopf zu behalten ist ein durchgängige Thematik.
-
-
-
-> cf. Lawson, Bruce: World Wide Web, Not Wealthy Western Web – https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/,  30.02.2017
-
-
-Die „World Bank“ berichtet, dass mehr als 1.1 Milliarden Menschen auf der Welt zugang zu High Speed internet haben. 3.2 Milliarden Menschen haben Internetzugang mit mäßiger Geschwindigkeit und 5.2 Milliarden Menschen besitzen überhaupt ein Mobile Telefon. 7 Milliarden Menschen leben mit einem mobilen Internet Zugang.
-
-> Enzenhofer, Klaus. (2017) UX reports from the trenches: Topconf Linz. 2017:
-
-> [Smashing Mag Artikel](https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/)
-
-
-
-
-> "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."
 > Shakespeare, William: Hamlet – The Tragedy of Hamlet. Edited by Edward Dowden: Methuen and Co. 36 Essex Street: Strand London, 1899, p.52
 
+With this words, Hamlet is speaking to his friend Horatio, in the popular tragedy of Shakespeare. But these words have not lost any actuality itself. Moreover, it is as important as a developer, to keep this words in mind. We are having the latest technologies like the new MacBook Pro and the latest iPhone 7+ and are used to the thought that everyone has this unlimited data plan and the fastest and most reliable network. Obviously, that is not the web experience most people are having. That is the reason why it is such important to keep in mind that a website should work for everyone as good as possible and not even for the western countries. According to the world bank report of 2016 1.1 billion people across the world are surfing the web with a high-speed internet. That is pretty less in comparison with the world's population. If you think about the fact, that 3.2 billion people are having access to the web. 
+> cf. Lawson, Bruce: World Wide Web, Not Wealthy Western Web – https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/, 20.03.2017
+
+The way of thinking, that a website does not have to be optimised for countries in the middle east outside, is ridiculous. However, if a closer look is taken to the world map from the world bank report where the countries are sized according to the internet population, circumstances are shifting. If someone is thinking that a product is only bought by companies or customers of the west, then probably it is the reason, that the site is not optimised for the middle east. The dating app Ignighter was developed by three Jewish guys from the US. They were targeting people from the middle class of New York and the western countries. They struggled a lot with reaching the critical mass so the founders noticed that they were getting many sing-ups from the middle east, especially from India. Because of this they rebranded the whole app and became India`s biggest dating site. Even though nothing is predictable, new websites should be considered with the middle east.
+> cf. Lawson, Bruce: World Wide Web, Not Wealthy Western Web – https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/, 20.03.2017
 
 ### The problem with images
 
