@@ -1,1 +1,4 @@
 *.idlk
+.DS_Store
+*.pdf
+*.indd
