@@ -26,7 +26,7 @@ Die „World Bank“ berichtet, dass mehr als 1.1 Milliarden Menschen auf der We
 ### The problem with images
 
 The problem in responsive design is not always the size of the images on the screen, measured in px. Furthermore, it should be considered the file size, measured in kb, that is needed to provide this content. Let us assume that a picture is provided for a desktop with a width of 1440px. The image needs the width of 1400px to be served in an optimal quality. Assume this page is now viewed on a mobile device, with a ratio of 375x667px like an iPhone 6. Of course, it is not necessary to be as much of a genius as Steven Hawking, to recognise that 1.025px are not used of this image. That was the point where the HTML5 picture tag came across and all the polyfills for the `srcset` attribute. In particular, the problem with the `<img>` tag was solved then because it was possible to send multiple sources for multiple devices and we do not have to deliver big Retina images to non-Retina devices. But saving bandwidth is not the only benefit of delivering the correct size. Accordingly, a huge amount of battery is saved during the load of the page – it required a lot of CPU-cycles to render the image in the correct size. Maybe in the western part of the world that does not matter but there are many parts of the world, where battery life is as important as saving costs on bandwidth. 
-> cf. Kadlec, Tim: Why We Need Responsive Images – https://timkadlec.com/2013/06/why-we-need-responsive-images/, 20.03.2017
+> cf. Lawson, Bruce: World Wide Web, Not Wealthy Western Web – https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/, 20.03.2017
 
 ### Solving the problem with the images
 
