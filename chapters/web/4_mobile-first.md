@@ -1,5 +1,7 @@
 # Mobile First – but why?
 
+## Web is not a western invention
+
 > "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."
 > Shakespeare, William: Hamlet – The Tragedy of Hamlet. Edited by Edward Dowden: Methuen and Co. 36 Essex Street: Strand London, 1899, p.52
 
@@ -8,6 +10,9 @@ With this words, Hamlet is speaking to his friend Horatio, in the popular traged
 
 The way of thinking, that a website does not have to be optimised for countries in the middle east outside, is ridiculous. However, if a closer look is taken to the world map from the world bank report where the countries are sized according to the internet population, circumstances are shifting. If someone is thinking that a product is only bought by companies or customers of the west, then probably it is the reason, that the site is not optimised for the middle east. The dating app Ignighter was developed by three Jewish guys from the US. They were targeting people from the middle class of New York and the western countries. They struggled a lot with reaching the critical mass so the founders noticed that they were getting many sing-ups from the middle east, especially from India. Because of this they rebranded the whole app and became India`s biggest dating site. Even though nothing is predictable, new websites should be considered with the middle east.
 > cf. Lawson, Bruce: World Wide Web, Not Wealthy Western Web – https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/, 20.03.2017
+
+
+### Progressive web apps
 
 ### The problem with images
 

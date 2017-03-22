@@ -1,8 +1,10 @@
 # Das Layout
 
+
 ## Erklärungen
 
 ### Media Queries
+
 Media Querys sind Abfragen, die es dem Medium *(in diesem Fall dem Browser)* ermöglichen zu ermitteln welche Breite der sogenannte **view-port** *(Innere Bereich eines Browserfensters)* hat. Anhand dieser Media queries werden dann Syleregeln angewendet. Eine Media Query verfügt auch über die Optionalität die Ausrichtung eines Geräts, wie Hochformat oder Querformat, oder auch die Pixeldichte *(für Retinageräte)* abzufragen.
 ### Breakpoints
 Breakpoints sind bestimmte Punkte oder Punktespannen, gemessen in px, welche bestimmte Bereiche definieren. Diese Bereiche werden dann auf die Media Queries angewandt, um eine bestimmte Layoutregel darauf anzuwenden.
