@@ -1,4 +1,7 @@
-# Mobile First – but why?
+## Mobile First – but why?
+
+When we are talking about the mobile first approach it is necessary to know why it is so important nowadays to design for the mobile web. It is important to get the latest or future information about digital transformations – the shift, that not even private people trying to conquer the mobile field, even governments or big companies are trying to settle this area. They are evaluating the benefits of mobile devices in kind of agility and flexibility. But with this shift, there is a huge effort and duty shipped by, that developers have to concern. The targeting devices are flooding the market and every device has own screen resolutions or operating systems and therefore different browsers.
+> cf. World Bank Group: Digital Dividends – world development report 2016 – 1818 H Street NW, Washington DC 20433, International Bank for Reconstruction and Development / The World Bank, 2016, p. 2 – 37
 
 ## Web is not a western invention
 
