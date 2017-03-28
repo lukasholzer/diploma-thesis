@@ -30,7 +30,7 @@ Previously, before the picture tag came across there was only one method to prov
 | IE   |  Firefox | Safari | Chrome | Opera | iPhone | Android |
 | ---- | -------- | ------ | ------ | ----- | ------ | ------- |
 | 13+  |  38+     | 9.1+   | 38+    | 25+   | 9.3+   | 53+     |
-Can I use: Picture element – http://caniuse.com/#search=picture/, 20.02.2017
+Can I use: Picture element – http://caniuse.com/#search=picture, 20.02.2017
 
 ``` html
 

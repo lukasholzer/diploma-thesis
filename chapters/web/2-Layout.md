@@ -1,40 +1,10 @@
-# Das Layout
+# the Layout
 
+The layout is not an invention of the 21 century – even the web transferred this part from the print and measured it with pixels, but that was difficult after the web was growing. Concerning that, the layout is a long developed product and the idea of reusing it is great, nevertheless, it had to develop itself and should not stick too close, to fixed measurements.
+> cf. Keith, Jeremy: The Road To Resilient Web Design – https://www.smashingmagazine.com/2017/03/resilient-web-design/, 2017.03.25
 
-## Erklärungen
+Travelling back in time to the year 800 AD to the beautiful island called Ireland somewhere in a stone hut there was a monk sitting and thinking about the layout of Europe's greatest manuscript treasures. The Book of Kells a medieval treasure, named after a town in County Meath is a Cristian manuscript that was painted on 680 pages of vellum. The stunning moment of this book is, that every page has a different layout which is connected to the others. On particular pages, the corners were filled with detailed Celtic designs, distinguished by varied colours.
+> cf. Kearney, Martha: The Book of Kells: Medieval Europe`s greatest treasure? – http://www.bbc.com/culture/story/20160425-the-book-of-kells-medieval-europes-greatest-treasure, 25.03.2017
 
-### Media Queries
-
-Media Querys sind Abfragen, die es dem Medium *(in diesem Fall dem Browser)* ermöglichen zu ermitteln welche Breite der sogenannte **view-port** *(Innere Bereich eines Browserfensters)* hat. Anhand dieser Media queries werden dann Syleregeln angewendet. Eine Media Query verfügt auch über die Optionalität die Ausrichtung eines Geräts, wie Hochformat oder Querformat, oder auch die Pixeldichte *(für Retinageräte)* abzufragen.
-### Breakpoints
-Breakpoints sind bestimmte Punkte oder Punktespannen, gemessen in px, welche bestimmte Bereiche definieren. Diese Bereiche werden dann auf die Media Queries angewandt, um eine bestimmte Layoutregel darauf anzuwenden.
-Die folgenden Breakpoints wurden bei der Website verwendet um die folgenden 5 Gerätegrößen abzudecken.
-
-| von px | bis px | Gerät             |
-| ------ | ------ | ----------------- |
-| 0      | 510    | Mobile Devices    |
-| 511    | 768    | Tablets           |
-| 769    | 1200   | Laptops           |
-| 1201   | 1440   | Desktops          |
-| 1441   | ∞      | Ultra Wide        |
-
-
-## wie alles anfing
-(Fixed Layouts und der Beginn des Webs)
-
-## Responsive Layouts
-
-## Fluid oder liquid layouts
-Der Begriff fluid oder liquid Layout kommt davon, dass dieses ohne fixen Breitenangaben auskommt. Das heißt alles wird in Prozent gerechnet und behält dadurch seine Proportionen bei Skalierung des Browserfensters. Das klassische Beispiel für ein Liquid Layout wäre die Einteilung von Sidebar und Main Bereich, wo der Hauptteil eine Breite von 70% hat und die Sidebar eine Breite von 30%. 
-Diese Technik kommt jedoch oft mit der Kombination von Media Queries vor, da diese ermöglicht andere Prozentuale Verhältnisse für mobile Geräte zu definieren. Im Beispiel der Sidebar würde das bedeuten, dass diese auf mobilen Geräten eine Breite von 100% erreichen würde und sich unter den Hauptteil fügen würde. Dieses flüssige behalten ist der Hauptgedanke eines Fluid Layouts. Es beschreibt den Fluss der Elemente auf verschiedenen Endgeräten. Dieses Phänomen kann man nicht nur beim Vergrößern des Browserfensters begutachten, sondern auch beim Ändern der Geräteausrichtung, von Horizontal auf Vertikal oder vice versa.
-> vgl. Implementing Responsive Design p.25
-
-
-## Elastic Layouts
-
-## Hybrid Layouts
-Die letzte und Layoutoption ist das Hybride Layout. Es kombiniert die Eigenschaften der vorangehenden Beispiele.
-Dies Kommt zum Beispiel bei unserem Grid Layout vor. Da der Abstand der Grid Spalten, die *grid-gap* in px angegeben ist. Dadurch dass ein sogenanntes 12er grid (bestehend aus 12 Spalten) im Einsatz ist passt sich die Breite einer einzelnen Spalte dem restlichen Platz an. Zusätlich steuern noch Media Queries mit einem Breakpoint für mobile Endgeräte die *grid-gap*, damit diese auf Smartphones zum Beispiel geringer ist.
-
-
-The last Layoutoption is the hybrid layout. It combines the abilitys of the previous examples.
+Communicating a message is the purpose of this book and it does really well with all the calligraphic elements and illustrations that conveyed the message in a specific context to transmit the Cristian credo of this book. But thinking about the variables that have to be considered by the monks during the design process of the book, everything was fixed. The measurements of the vellum, the inks – nearly everything. Taking a step further in history to the age of Gutenberg`s invention of movable type letters and the revolution of printing was born. Now it was able to produce multiple copies with much less labour. Even the design patterns were reused. Like drop caps were cut out of wood and columns were carried over from manuscripts like the Book of Kells. Nevertheless, the variables were all known and it was easy to solve the equation. Stepping further in history to the zenith of the print techniques with the Swiss Style, a structured layout and a clear typography was invented by famous typographs like Jan Tschichold and Josef Müller-Brockmann. They invented typographic scales like a grid system and a type area. The advantage of knowing all variables enables the designer to built consistent layouts with maximum effect.
+> cf. Keith, Jeremy: The Road To Resilient Web Design – https://www.smashingmagazine.com/2017/03/resilient-web-design/, 2017.03.25
