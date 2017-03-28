@@ -1,4 +1,4 @@
-# the Layout
+# The Layout
 
 The layout is not an invention of the 21 century – even the web transferred this part from the print and measured it with pixels, but that was difficult after the web was growing. Concerning that, the layout is a long developed product and the idea of reusing it is great, nevertheless, it had to develop itself and should not stick too close, to fixed measurements.
 > cf. Keith, Jeremy: The Road To Resilient Web Design – https://www.smashingmagazine.com/2017/03/resilient-web-design/, 2017.03.25
