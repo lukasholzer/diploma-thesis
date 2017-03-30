@@ -5,7 +5,5 @@ Der Altwiener Christkindlmarkt wird von einer langen Tradition begleitet, welche
 
 Mit seiner liebevollen Inszenierung und dem besonderen Kunsthandwerk der vielen Aussteller, ist der Altwiener Christkindlmarkt eine Besonderheit zur Adventszeit in Wien. Für musikalische Unterhaltung sorgen jedes Jahr fast 100 verschiedene Ensembles und auch das Kinderprogramm kommt mit den zahlreichen Kasperltheatervorführungen nicht zu kurz. Der Altwiener Christkindlmarkt bietet mit seinem gemütlichen Ambiente und seinen kulinarischen Aufgebot eine schöne Alternative zu den konventionellen Adventmärkten in der Umgebung. Auch die exklusive Lage im 1. Wiener Bezirk ist dem Markt seit jeher zugute gekommen und führt zu steigender Beliebtheit, sowohl bei Einheimischen, als auch bei Touristen.
 
-B2C
-
 # Abstract
 #### in English
