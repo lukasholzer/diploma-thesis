@@ -8,11 +8,12 @@
 * Flanagan, David: JavaScript: The Definitive Guide. (Sixth Edition) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2011
 * Fogus, Michael: Functional JavaScript. (First Edition) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013
 * Gaston, Peter: The Modern Web. (First Printing) – 38 Ringold Street, San Francisco, CA 94103: No Starch Press Inc., 2013
+* Hahn, Evan M.: Express in Action – Writing, building, and testing Node.js applications. (First Edition) – 20 Baldwin Road, Shelter Island, NY 11964: Manning Publications Co.
 * Kadlec, Tim: Implementing Responsive Design: Building sites for an anywhere, everywhere web. (First Edition) – 1249 Eighth Street, Berkeley, CA 94710: New Riders, 2013
 * Levin, Michal: Designing Multi-Device Experiences. – An Ecosystem Approach To User Experiences Across Devices. (First release): O'Reilly and Associates, 2014
 * Lindley, Cody: DOM Enlightenment. (First Edition) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013
 * Lowdermilk, Travis: User-Centered Design. (First Release) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2013
-* Netherland, Wynn et al.: Sass and Compass in Action (First Edition) – 20 Baldwin Road, Shelter Island, NY 11964: Manning Publications Co.
+* Netherland, Wynn et al.: Sass and Compass in Action. (First Edition) – 20 Baldwin Road, Shelter Island, NY 11964: Manning Publications Co.
 * Pilgrim, Mark: HTML5 – Up and Running. (First Edition) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2010
 * Peterson, Clarissa: Learning Responsive Web Design. (First Edition) – 1005 Gravenstein Highway North, Sebastopol, CA 95472: O’Reilly Media, Inc., 2014
 * Pollock, John: JavaScript A Beginner`s Guide. (Fourth Edition) – McGraw-Hill Companies, 2013
