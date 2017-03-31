@@ -1,7 +1,9 @@
 # Thesis
-Thesis for my diploma at the HTL1 Graphic & Communication Design for the Altwiener Christmas 
 
-checkout unilekt
+Thesis for my diploma at the HTL1 Graphic & Communication Design.
+The »Altwiener Christmas market« has been a fundamental part of the Viennese Advent season since its first event in 1987. With an extensive cultural and culinary set-up and the loving production of the market, an alternative to the commercial Christmas markets in Vienna is offered. In addition to the craftsmanship of the numerous exhibitors, entertainment also plays a significant role in the Altwiener Christmas fair, since a total of around 100 different ensembles are responsible for the musical performances. Furthermore, a comprehensive children‘s program is organised annually, with the result that even the youngest attendants have a pleasant memory of their market visit.
+With its 30th anniversary, the Altwiener Christmas market can retrospect on a long tradition. As part of this anniversary, it is now time to honour the market with a new corporate design and to give the visual identity a time-based appearance.
+This thesis deals with the complete elaboration of corporate design. The ambition of this work is to enhance the market by a new and more unconventional appearance. At the same time, the character of the City of Vienna should also be taken into consideration. With redesigning the Altwiener Christmas market and a strategic improvement of advertising measures, the advertising potential can be utilised better, and even a younger target group can be addressed.
 
 
 ## Citing Rules: According to Ö-Norm
